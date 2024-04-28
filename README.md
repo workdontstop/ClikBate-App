@@ -65,7 +65,13 @@ Clickbate Design and Architecture
 <img width="876" alt="Screenshot 2024-04-28 at 20 45 39" src="https://github.com/workdontstop/ClikBate-App/assets/83871801/6c07825e-efaa-42c7-a6c6-c2b35ef875f7">
 
 
+
+
+
 ![unnamed](https://github.com/workdontstop/ClikBate-App/assets/83871801/dac2cb89-19be-4b66-a0e6-213a61d22696)
+
+
+
 
 System Overview 
 
